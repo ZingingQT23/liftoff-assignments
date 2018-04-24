@@ -7,10 +7,10 @@ For this assignment you will need to upload your resume, and provide links to yo
 ## Submission Instructions
 
 ### GitHub
-Provide a link to your GitHub account here.
+[GitHub](https://github.com/ZingingQT23/)
 
 ### LinkedIn
-Provide a link to your LinkedIn account here.
+[LinkdIn](https://www.linkedin.com/in/dylankenyon/)
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo.
+[Resume](resume.pdf)
